@@ -57,6 +57,6 @@ After entering a URL (e.g., https://example.com) and clicking "Generate QR Code,
 
 ## **Contact**
 If you have any questions or suggestions, feel free to reach out:
-- **Author**: [Shashanka C K](mailto:your-email@example.com)  
+- **Author**: [Shashanka C K](mailto:shashankcks2002@gmail.com)  
 - **GitHub**: [Shashank452](https://github.com/Shashank452)  
 - **LinkedIn**: [Shashanka C K](https://www.linkedin.com/in/shashanka-c-k)
